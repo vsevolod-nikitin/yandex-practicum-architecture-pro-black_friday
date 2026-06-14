@@ -1,5 +1,7 @@
 # pymongo-api
 
+Архитектурный документ заданий 7-10 расположен по пути **[docs](docs)**.
+
 ## Схема приложения
 
 ![Схема приложения](schemas/shard_repl_cache_gateway_cdn.png)
